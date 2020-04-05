@@ -1,6 +1,6 @@
 # Exemplo de API
   
-Este exemplo de APIRest/RestFull Usando Swagger:
+Este exemplo de documentação APIRest/RestFull Usando Swagger:
   
 ```
 # this is an example of the Uber API
