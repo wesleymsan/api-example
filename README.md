@@ -1,7 +1,8 @@
 # Exemplo de documentação API
   
 Este exemplo de documentação APIRest/RestFull Usando Swagger:
-  
+
+```
 # this is an example of the Uber API
 # as a demonstration of an API spec in YAML
 swagger: '2.0'
@@ -160,3 +161,4 @@ definitions:
 # Added by API Auto Mocking Plugin
 host: virtserver.swaggerhub.com
 basePath: /wesleymsan/ListaDeUsuarios1/1.0.0
+```
